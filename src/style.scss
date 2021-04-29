@@ -1,0 +1,17 @@
+@import "./styles/theme";
+
+h1,
+p {
+  font-family: Lato;
+}
+
+body {
+  background-color: $bg-blue;
+  color: #fff;
+  text-align: center;
+}
+
+h1 {
+  font-size: $fontBig;
+  color: $txtYellow;
+}
